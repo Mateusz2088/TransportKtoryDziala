@@ -1,0 +1,7 @@
+services :
+  stronaWWW:
+    image : nginx
+    ports:
+      - "8025:80"
+    volumes:
+      - ./:/usr/share/nginx/html
