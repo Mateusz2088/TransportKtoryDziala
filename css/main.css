@@ -1,3 +1,13 @@
 article {
     text-align: justify
 }
+.alert-info {
+    background-color: #97b100;
+    color: white;
+    border-color: #202d10;
+}
+.alert-primary {
+    background-color: #202d10;
+    color: white;
+    border-color: #97b100;
+}
